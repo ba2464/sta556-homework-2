@@ -1,6 +1,3 @@
-import pandas as pd
-
-
 def recode_categories(data):
     """Recode categorical claim variables into readable labels."""
     df = data.copy()
