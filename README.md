@@ -31,7 +31,7 @@ sta556-homework-2/
 │   ├── loss_by_attorney.png
 │   └── age_vs_loss.png
 ├── notebooks/
-│   └── exploratory data analysis.ipynb
+│   └── exploratory_data_analysis.ipynb
 ├── src/
 │   ├── __init__.py
 │   └── cleaning.py
@@ -43,7 +43,7 @@ sta556-homework-2/
 
 1. Clone the repository:
 ```bash
-   git clone [your repository URL]
+   git clone https://github.com/ba2464/sta556-homework-2
    cd sta556-homework-2
 ```
 2. (Recommended) Create and activate a virtual environment:
